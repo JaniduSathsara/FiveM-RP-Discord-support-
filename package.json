@@ -1,0 +1,16 @@
+{
+  "name": "rp-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Whitelist and Job applications",
+  "type": "module",
+  "main": "job_whitelist.js",
+  "scripts": {
+    "start": "node job_whitelist.js"
+  },
+  "author": "Janidu Sathsara",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5"
+  }
+}
